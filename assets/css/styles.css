@@ -30,6 +30,7 @@
         grid-area: foot;
         background-color: #ececec;
         text-align: center;
+        font-size: large;
       }
         .nav-container{
         background-color: rgb(0, 54, 124);
